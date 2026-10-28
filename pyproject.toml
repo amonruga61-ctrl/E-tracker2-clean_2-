@@ -1,0 +1,11 @@
+[project]
+name = "e_tracker"
+version = "0.1.0"
+description = "Personal finance dashboard"
+requires-python = ">=3.10"
+dependencies = [
+    "flet>=0.25.0",
+]
+
+[tool.flet]
+product = "E-Tracker"
